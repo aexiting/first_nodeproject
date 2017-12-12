@@ -1,0 +1,22 @@
+{
+  "name": "first_project",
+  "version": "1.0.0",
+  "description": "My first project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aexiting/first_nodeproject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aexiting/first_nodeproject/issues"
+  },
+  "homepage": "https://github.com/aexiting/first_nodeproject#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
